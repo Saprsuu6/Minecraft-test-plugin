@@ -1,0 +1,11 @@
+name: Market
+main: com.example.Market
+version: '1.0-SNAPSHOT'
+api-version: 1.15
+commands:
+  market:
+    description: Opens the market menu.
+    usage: /market
+  grantperm:
+    description: Grants a permission to a player.
+    usage: /grantperm <player> <permission>

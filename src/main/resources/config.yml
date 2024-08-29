@@ -1,0 +1,8 @@
+messages:
+  noPermission: 'You do not have permission to use this command.'
+  usage: 'Sell the item: /market sell price'
+  noItem: "You haven't the item in the arm."
+  invalidPrice: 'Not correct price value.'
+  sellOrderCreated: 'You have listed the product {item} with price {price}'
+general:
+  someError: 'Ooops...'
