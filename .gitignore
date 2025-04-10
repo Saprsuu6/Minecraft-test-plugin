@@ -1,0 +1,41 @@
+# Исключаем скомпилированные классы и артефакты сборки
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Папки сборки (Maven, Gradle)
+target/
+build/
+
+# Файлы и папки, создаваемые IDE
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Файлы логов и временные файлы
+*.log
+.mtj.tmp/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+.history
